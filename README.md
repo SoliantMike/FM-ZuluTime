@@ -20,4 +20,4 @@ This can be expanded on to meet your requirements if you to show a unit greater 
 
 
 Read more here:
-http://www.soliantconsulting.com/blog/
+https://www.soliantconsulting.com/blog/zulu-time-zone-filemaker
